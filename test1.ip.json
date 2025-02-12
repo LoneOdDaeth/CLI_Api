@@ -1,0 +1,3726 @@
+[{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cdb"
+  },
+  "ip-dst:port": "173.211.106.67:4860",
+  "type": "Network activity",
+  "tag_name": [
+    "9February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cdc"
+  },
+  "ip-dst:port": "185.140.53.140:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "9February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cdd"
+  },
+  "ip-dst:port": "88.208.246.143:5201",
+  "type": "Network activity",
+  "tag_name": [
+    "9February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cde"
+  },
+  "ip-dst:port": "38.85.247.35:8808",
+  "type": "Network activity",
+  "tag_name": [
+    "AS8796",
+    "asyncrat",
+    "c2",
+    "censys",
+    "FD-298-8796",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cdf"
+  },
+  "ip-dst:port": "107.170.60.30:8088",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "asyncrat",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce0"
+  },
+  "ip-dst:port": "93.198.191.146:82",
+  "type": "Network activity",
+  "tag_name": [
+    "AS3320",
+    "c2",
+    "censys",
+    "DTAG",
+    "NetSupport",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce1"
+  },
+  "ip-dst:port": "16.16.201.2:28337",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-02",
+    "AS16509",
+    "c2",
+    "censys",
+    "NetSupport",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce2"
+  },
+  "ip-dst:port": "13.232.216.28:37420",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-02",
+    "AS16509",
+    "c2",
+    "censys",
+    "NetSupport",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce3"
+  },
+  "ip-dst:port": "181.214.231.181:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS211301",
+    "c2",
+    "censys",
+    "moobot",
+    "UNESTY"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce4"
+  },
+  "ip-dst:port": "46.247.108.173:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS58087",
+    "c2",
+    "censys",
+    "FLORIANKOLB",
+    "moobot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce5"
+  },
+  "ip-dst:port": "86.34.227.20:81",
+  "type": "Network activity",
+  "tag_name": [
+    "10February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce6"
+  },
+  "ip-dst:port": "176.65.137.193:666",
+  "type": "Network activity",
+  "tag_name": [
+    "10February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce7"
+  },
+  "ip-dst:port": "195.211.190.213:1663",
+  "type": "Network activity",
+  "tag_name": [
+    "STRRAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce8"
+  },
+  "ip-dst:port": "121.37.247.50:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS55990",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "HWCSNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ce9"
+  },
+  "ip-dst:port": "123.57.193.212:10002",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS37963",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cea"
+  },
+  "ip-dst:port": "45.149.241.85:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "AS401116",
+    "c2",
+    "censys",
+    "NYBULA",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ceb"
+  },
+  "ip-dst:port": "88.119.171.163:2804",
+  "type": "Network activity",
+  "tag_name": [
+    "AS61272",
+    "c2",
+    "censys",
+    "IST-AS",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cec"
+  },
+  "ip-dst:port": "139.84.173.55:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-VULTR",
+    "AS20473",
+    "c2",
+    "censys",
+    "Pupy",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52ced"
+  },
+  "ip-dst:port": "193.83.1.168:4444",
+  "type": "Network activity",
+  "tag_name": [
+    "A1TELEKOM-AT",
+    "AS8447",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cee"
+  },
+  "ip-dst:port": "107.170.60.30:8000",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "asyncrat",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cef"
+  },
+  "ip-dst:port": "102.117.160.105:7443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23889",
+    "c2",
+    "censys",
+    "MauritiusTelecom",
+    "Mythic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf0"
+  },
+  "ip-dst:port": "45.81.115.141:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS205463",
+    "c2",
+    "censys",
+    "HookBot",
+    "PEMBEGULISG"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf1"
+  },
+  "ip-dst:port": "83.147.38.248:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS32097",
+    "c2",
+    "censys",
+    "HookBot",
+    "WII"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf2"
+  },
+  "ip-dst:port": "159.65.150.68:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "HookBot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf3"
+  },
+  "ip-dst:port": "159.65.150.68:8082",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "HookBot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf4"
+  },
+  "ip-dst:port": "195.211.190.134:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS214943",
+    "c2",
+    "censys",
+    "Havoc",
+    "RAILNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf5"
+  },
+  "ip-dst:port": "195.211.190.134:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS214943",
+    "c2",
+    "censys",
+    "Havoc",
+    "RAILNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf6"
+  },
+  "ip-dst:port": "45.76.87.204:7000",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-VULTR",
+    "AS20473",
+    "c2",
+    "censys",
+    "RAT",
+    "Venom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf7"
+  },
+  "ip-dst:port": "23.227.199.88:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS29802",
+    "censys",
+    "EvilGinx",
+    "HVC-AS",
+    "panel",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf8"
+  },
+  "ip-dst:port": "31.214.157.25:443",
+  "type": "Network activity",
+  "tag_name": [
+    "Latrodectus"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cf9"
+  },
+  "ip-dst:port": "181.235.11.209:8090",
+  "type": "Network activity",
+  "tag_name": [
+    "AS3816",
+    "c2",
+    "censys",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cfa"
+  },
+  "ip-dst:port": "185.101.23.248:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS17098",
+    "BROWNRICE-INTERNET-1",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cfb"
+  },
+  "ip-dst:port": "3.215.224.47:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-AES",
+    "AS14618",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cfc"
+  },
+  "ip-dst:port": "37.221.111.94:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS30475",
+    "censys",
+    "GoPhish",
+    "phishing",
+    "WEHOSTWEBSITES-COM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cfd"
+  },
+  "ip-dst:port": "66.78.40.206:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS215659",
+    "censys",
+    "GoPhish",
+    "MOEMOEKYUN",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cfe"
+  },
+  "ip-dst:port": "3.89.26.46:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-AES",
+    "AS14618",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52cff"
+  },
+  "ip-dst:port": "165.232.147.95:1724",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d00"
+  },
+  "ip-dst:port": "134.209.38.96:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d01"
+  },
+  "ip-dst:port": "95.217.21.18:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS24940",
+    "censys",
+    "GoPhish",
+    "HETZNER-AS",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d02"
+  },
+  "ip-dst:port": "176.111.216.82:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-INCX",
+    "AS13737",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d03"
+  },
+  "ip-dst:port": "194.62.166.165:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS27323",
+    "censys",
+    "GoPhish",
+    "phishing",
+    "SERVERSTADIUM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d04"
+  },
+  "ip-dst:port": "139.255.109.52:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS9905",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d05"
+  },
+  "ip-dst:port": "164.90.189.206:1724",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d06"
+  },
+  "ip-dst:port": "93.177.109.20:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS400175",
+    "censys",
+    "GoPhish",
+    "MICROTRONIX-ESOLUTIONS",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d07"
+  },
+  "ip-dst:port": "147.135.79.247:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS16276",
+    "censys",
+    "GoPhish",
+    "OVH",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d08"
+  },
+  "ip-dst:port": "101.126.10.97:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS137718",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d09"
+  },
+  "ip-dst:port": "63.133.220.145:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-INCX",
+    "AS13737",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d0a"
+  },
+  "ip-dst:port": "185.101.23.252:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS17098",
+    "BROWNRICE-INTERNET-1",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d0b"
+  },
+  "ip-dst:port": "66.228.45.62:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS63949",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d0c"
+  },
+  "ip-dst:port": "184.82.103.23:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS133481",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d0d"
+  },
+  "ip-dst:port": "198.12.81.146:7643",
+  "type": "Network activity",
+  "tag_name": [
+    "RAT",
+    "RemcosRAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d0e"
+  },
+  "ip-dst:port": "159.69.103.4:443",
+  "type": "Network activity",
+  "tag_name": [
+    "Vidar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d0f"
+  },
+  "ip-dst:port": "8.155.8.239:8888",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS37963",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-391144938"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d10"
+  },
+  "ip-dst:port": "23.27.48.179:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS149440",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666",
+    "EVOXTENTERPRISE-AS-AP"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d11"
+  },
+  "ip-dst:port": "123.56.252.127:8013",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS37963",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-0"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d12"
+  },
+  "ip-dst:port": "43.159.34.150:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS132203",
+    "c2",
+    "censys",
+    "Pupy",
+    "RAT",
+    "TENCENT-NET-AP-CN"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d13"
+  },
+  "ip-dst:port": "82.115.223.130:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS214927",
+    "c2",
+    "censys",
+    "PSB-AS",
+    "sliver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d14"
+  },
+  "ip-dst:port": "47.100.66.117:8889",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS37963",
+    "c2",
+    "censys",
+    "Supershell"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d15"
+  },
+  "ip-dst:port": "123.58.220.204:8888",
+  "type": "Network activity",
+  "tag_name": [
+    "AS135377",
+    "c2",
+    "censys",
+    "Supershell",
+    "UCLOUD-HK-AS-AP"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d16"
+  },
+  "ip-dst:port": "128.90.123.117:5000",
+  "type": "Network activity",
+  "tag_name": [
+    "AS40861",
+    "asyncrat",
+    "c2",
+    "censys",
+    "PARAD-40-ASN",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d17"
+  },
+  "ip-dst:port": "207.231.111.82:306",
+  "type": "Network activity",
+  "tag_name": [
+    "AS62633",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT",
+    "SERVERDIME-SERVERCHEAP-HOSTRUSH"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d18"
+  },
+  "ip-dst:port": "34.70.24.145:8808",
+  "type": "Network activity",
+  "tag_name": [
+    "AS396982",
+    "asyncrat",
+    "c2",
+    "censys",
+    "GOOGLE-CLOUD-PLATFORM",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d19"
+  },
+  "ip-dst:port": "5.101.103.31:8088",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "Havoc"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d1a"
+  },
+  "ip-dst:port": "209.38.136.123:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "Havoc"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d1b"
+  },
+  "ip-dst:port": "5.178.3.137:4444",
+  "type": "Network activity",
+  "tag_name": [
+    "AS61302",
+    "c2",
+    "censys",
+    "HUIZE_TELECOM",
+    "RAT",
+    "Venom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d1c"
+  },
+  "ip-dst:port": "35.181.58.125:28491",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-02",
+    "AS16509",
+    "c2",
+    "censys",
+    "NetSupport",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d1d"
+  },
+  "ip-dst:port": "51.52.92.243:7007",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetSupport",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d1e"
+  },
+  "ip-dst:port": "44.203.45.132:20256",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetSupport",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d1f"
+  },
+  "ip-dst:port": "56.124.106.90:9306",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetSupport",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d20"
+  },
+  "ip-dst:port": "185.219.81.19:31337",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "shodan",
+    "sliver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d21"
+  },
+  "ip-dst:port": "144.172.94.67:31337",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "shodan",
+    "sliver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d22"
+  },
+  "ip-dst:port": "140.82.20.165:1660",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "darkcomet",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d23"
+  },
+  "ip-dst:port": "98.83.29.240:8500",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetBus",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d24"
+  },
+  "ip-dst:port": "206.206.78.27:443",
+  "type": "Network activity",
+  "tag_name": [
+    "drb-ra",
+    "sliver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d25"
+  },
+  "ip-dst:port": "154.205.157.23:443",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "CobaltStrike",
+    "cs-watermark-100000",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d26"
+  },
+  "ip-dst:port": "36.131.175.88:4506",
+  "type": "Network activity",
+  "tag_name": [
+    "Deimos",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d27"
+  },
+  "ip-dst:port": "140.238.207.208:2247",
+  "type": "Network activity",
+  "tag_name": [
+    "RAT",
+    "RemcosRAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d28"
+  },
+  "ip-dst:port": "37.221.67.141:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "ALEXHOST",
+    "AS200019",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d29"
+  },
+  "ip-dst:port": "60.204.132.245:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS55990",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "HWCSNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d2a"
+  },
+  "ip-dst:port": "23.106.153.196:4444",
+  "type": "Network activity",
+  "tag_name": [
+    "AS25820",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-305419896",
+    "IT7NET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d2b"
+  },
+  "ip-dst:port": "193.26.115.83:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23470",
+    "c2",
+    "censys",
+    "RAT",
+    "RELIABLESITE",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d2c"
+  },
+  "ip-dst:port": "176.65.139.69:4040",
+  "type": "Network activity",
+  "tag_name": [
+    "AS215240",
+    "c2",
+    "censys",
+    "NETRESEARCH",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d2d"
+  },
+  "ip-dst:port": "164.132.247.190:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS16276",
+    "c2",
+    "censys",
+    "OVH",
+    "Pupy",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d2e"
+  },
+  "ip-dst:port": "170.106.136.132:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS132203",
+    "c2",
+    "censys",
+    "payload",
+    "sliver",
+    "TENCENT-NET-AP-CN"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d2f"
+  },
+  "ip-dst:port": "45.77.170.149:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-VULTR",
+    "AS20473",
+    "c2",
+    "censys",
+    "RAT",
+    "shadowpad"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d30"
+  },
+  "ip-dst:port": "123.11.253.233:5873",
+  "type": "Network activity",
+  "tag_name": [
+    "AS4837",
+    "c2",
+    "censys",
+    "CHINA169-BACKBONE",
+    "Supershell"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d31"
+  },
+  "ip-dst:port": "95.215.206.172:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS211381",
+    "c2",
+    "censys",
+    "ERMAC",
+    "panel",
+    "PODAON"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d32"
+  },
+  "ip-dst:port": "166.1.190.193:81",
+  "type": "Network activity",
+  "tag_name": [
+    "AS26383",
+    "ASNET",
+    "c2",
+    "censys",
+    "hacktool",
+    "Mimikatz",
+    "open-dir"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d33"
+  },
+  "ip-dst:port": "93.88.203.236:443",
+  "type": "Network activity",
+  "tag_name": [
+    "Latrodectus"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d34"
+  },
+  "ip-dst:port": "191.98.172.42:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "Tsunami"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d35"
+  },
+  "ip-dst:port": "45.155.249.85:443",
+  "type": "Network activity",
+  "tag_name": [
+    "BUMBLEBEE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d36"
+  },
+  "ip-dst:port": "176.118.193.128:443",
+  "type": "Network activity",
+  "tag_name": [
+    "BUMBLEBEE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d37"
+  },
+  "ip-dst:port": "103.214.68.123:443",
+  "type": "Network activity",
+  "tag_name": [
+    "BUMBLEBEE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d38"
+  },
+  "ip-dst:port": "88.151.117.130:443",
+  "type": "Payload delivery",
+  "tag_name": [
+    "SocGholish"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d39"
+  },
+  "ip-dst:port": "185.171.81.16:443",
+  "type": "Payload delivery",
+  "tag_name": [
+    "SocGholish"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d3a"
+  },
+  "ip-dst:port": "123.161.58.100:5443",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d3b"
+  },
+  "ip-dst:port": "172.233.14.216:8443",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d3c"
+  },
+  "ip-dst:port": "18.195.139.19:443",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d3d"
+  },
+  "ip-dst:port": "82.147.84.189:80",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d3e"
+  },
+  "ip-dst:port": "45.127.34.106:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS134677",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "IDC-AS-AP",
+    "SG"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d3f"
+  },
+  "ip-dst:port": "47.92.211.202:80",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d40"
+  },
+  "ip-dst:port": "87.92.132.67:6001",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetSupport",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d41"
+  },
+  "ip-dst:port": "114.67.181.81:10001",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "extreme",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d42"
+  },
+  "ip-dst:port": "98.83.29.240:8200",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetBus",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d43"
+  },
+  "ip-dst:port": "208.87.200.85:2053",
+  "type": "Network activity",
+  "tag_name": [
+    "AS133199",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666",
+    "SONDERCLOUDLIMITED-AS-AP"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d44"
+  },
+  "ip-dst:port": "176.65.141.49:2431",
+  "type": "Network activity",
+  "tag_name": [
+    "AS215240",
+    "c2",
+    "censys",
+    "NETRESEARCH",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d45"
+  },
+  "ip-dst:port": "69.167.28.183:8808",
+  "type": "Network activity",
+  "tag_name": [
+    "AS40861",
+    "asyncrat",
+    "c2",
+    "censys",
+    "PARAD-40-ASN",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d46"
+  },
+  "ip-dst:port": "45.10.41.105:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS9123",
+    "c2",
+    "censys",
+    "Havoc",
+    "TIMEWEB-AS"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d47"
+  },
+  "ip-dst:port": "186.169.72.217:1000",
+  "type": "Network activity",
+  "tag_name": [
+    "AS3816",
+    "c2",
+    "censys",
+    "COLOMBIA",
+    "dcrat",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d48"
+  },
+  "ip-dst:port": "47.239.161.52:8443",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS45102",
+    "c2",
+    "censys",
+    "DeimosC2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d49"
+  },
+  "ip-dst:port": "194.26.192.222:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS210558",
+    "c2",
+    "censys",
+    "ERMAC",
+    "panel",
+    "SERVICES-1337-GMBH"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d4a"
+  },
+  "ip-dst:port": "95.217.30.172:443",
+  "type": "Network activity",
+  "tag_name": [
+    "Vidar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d4b"
+  },
+  "ip-dst:port": "47.109.178.54:9999",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "CobaltStrike",
+    "cs-watermark-391144938",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d4c"
+  },
+  "ip-dst:port": "144.76.54.100:54984",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NanoCore",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d4d"
+  },
+  "ip-dst:port": "172.96.165.138:10001",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "extreme",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d4e"
+  },
+  "ip-dst:port": "197.201.44.253:50050",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "CobaltStrike",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d4f"
+  },
+  "ip-dst:port": "38.54.15.88:8081",
+  "type": "Network activity",
+  "tag_name": [
+    "Antidot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d50"
+  },
+  "ip-dst:port": "195.3.223.146:5553",
+  "type": "Network activity",
+  "tag_name": [
+    "asyncrat",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d51"
+  },
+  "ip-dst:port": "156.225.18.219:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS142032",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "HFTCL-AS-AP"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d52"
+  },
+  "ip-dst:port": "38.207.132.101:8443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS932",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666",
+    "XNNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d53"
+  },
+  "ip-dst:port": "38.207.132.101:12345",
+  "type": "Network activity",
+  "tag_name": [
+    "AS932",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666",
+    "XNNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d54"
+  },
+  "ip-dst:port": "88.247.165.149:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "AS9121",
+    "c2",
+    "censys",
+    "darkcomet",
+    "RAT",
+    "TTNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d55"
+  },
+  "ip-dst:port": "176.65.142.123:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS215240",
+    "c2",
+    "censys",
+    "NETRESEARCH",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d56"
+  },
+  "ip-dst:port": "104.243.242.236:1692",
+  "type": "Network activity",
+  "tag_name": [
+    "AS212238",
+    "c2",
+    "CDNEXT",
+    "censys",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d57"
+  },
+  "ip-dst:port": "5.78.119.141:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "AS212317",
+    "c2",
+    "censys",
+    "HETZNER-CLOUD3-AS",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d58"
+  },
+  "ip-dst:port": "123.11.143.166:5873",
+  "type": "Network activity",
+  "tag_name": [
+    "AS4837",
+    "c2",
+    "censys",
+    "CHINA169-BACKBONE",
+    "Supershell"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d59"
+  },
+  "ip-dst:port": "31.58.169.102:6606",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23470",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT",
+    "RELIABLESITE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d5a"
+  },
+  "ip-dst:port": "31.58.169.102:7707",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23470",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT",
+    "RELIABLESITE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d5b"
+  },
+  "ip-dst:port": "31.58.169.102:8808",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23470",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT",
+    "RELIABLESITE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d5c"
+  },
+  "ip-dst:port": "45.149.241.44:4444",
+  "type": "Network activity",
+  "tag_name": [
+    "AS401116",
+    "asyncrat",
+    "c2",
+    "censys",
+    "NYBULA",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d5d"
+  },
+  "ip-dst:port": "45.149.241.44:7777",
+  "type": "Network activity",
+  "tag_name": [
+    "AS401116",
+    "asyncrat",
+    "c2",
+    "censys",
+    "NYBULA",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d5e"
+  },
+  "ip-dst:port": "195.26.245.113:7707",
+  "type": "Network activity",
+  "tag_name": [
+    "AS40021",
+    "asyncrat",
+    "c2",
+    "censys",
+    "NL-811-40021",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d5f"
+  },
+  "ip-dst:port": "195.26.245.113:6606",
+  "type": "Network activity",
+  "tag_name": [
+    "AS40021",
+    "asyncrat",
+    "c2",
+    "censys",
+    "NL-811-40021",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d60"
+  },
+  "ip-dst:port": "54.178.158.125:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-02",
+    "AS16509",
+    "brc4",
+    "c2",
+    "censys"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d61"
+  },
+  "ip-dst:port": "103.215.81.156:60000",
+  "type": "Network activity",
+  "tag_name": [
+    "drb-ra",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d62"
+  },
+  "ip-dst:port": "185.177.74.207:443",
+  "type": "Network activity",
+  "tag_name": [
+    "drb-ra",
+    "EyePyramid"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d63"
+  },
+  "ip-dst:port": "188.49.122.255:995",
+  "type": "Network activity",
+  "tag_name": [
+    "drb-ra",
+    "QakBot",
+    "qbot",
+    "Quakbot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d64"
+  },
+  "ip-dst:port": "47.90.155.109:53",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2795320b48adb5d52d65"
+  },
+  "ip-dst:port": "195.177.95.118:4782",
+  "type": "Network activity",
+  "tag_name": [
+    "XenoRAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19042"
+  },
+  "ip-dst:port": "173.211.106.67:4860",
+  "type": "Network activity",
+  "tag_name": [
+    "9February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19043"
+  },
+  "ip-dst:port": "185.140.53.140:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "9February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19044"
+  },
+  "ip-dst:port": "88.208.246.143:5201",
+  "type": "Network activity",
+  "tag_name": [
+    "9February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19045"
+  },
+  "ip-dst:port": "38.85.247.35:8808",
+  "type": "Network activity",
+  "tag_name": [
+    "AS8796",
+    "asyncrat",
+    "c2",
+    "censys",
+    "FD-298-8796",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19046"
+  },
+  "ip-dst:port": "107.170.60.30:8088",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "asyncrat",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19047"
+  },
+  "ip-dst:port": "93.198.191.146:82",
+  "type": "Network activity",
+  "tag_name": [
+    "AS3320",
+    "c2",
+    "censys",
+    "DTAG",
+    "NetSupport",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19048"
+  },
+  "ip-dst:port": "16.16.201.2:28337",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-02",
+    "AS16509",
+    "c2",
+    "censys",
+    "NetSupport",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19049"
+  },
+  "ip-dst:port": "13.232.216.28:37420",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-02",
+    "AS16509",
+    "c2",
+    "censys",
+    "NetSupport",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1904a"
+  },
+  "ip-dst:port": "181.214.231.181:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS211301",
+    "c2",
+    "censys",
+    "moobot",
+    "UNESTY"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1904b"
+  },
+  "ip-dst:port": "46.247.108.173:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS58087",
+    "c2",
+    "censys",
+    "FLORIANKOLB",
+    "moobot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1904c"
+  },
+  "ip-dst:port": "86.34.227.20:81",
+  "type": "Network activity",
+  "tag_name": [
+    "10February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1904d"
+  },
+  "ip-dst:port": "176.65.137.193:666",
+  "type": "Network activity",
+  "tag_name": [
+    "10February2025",
+    "iocbottest"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1904e"
+  },
+  "ip-dst:port": "195.211.190.213:1663",
+  "type": "Network activity",
+  "tag_name": [
+    "STRRAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1904f"
+  },
+  "ip-dst:port": "121.37.247.50:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS55990",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "HWCSNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19050"
+  },
+  "ip-dst:port": "123.57.193.212:10002",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS37963",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19051"
+  },
+  "ip-dst:port": "45.149.241.85:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "AS401116",
+    "c2",
+    "censys",
+    "NYBULA",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19052"
+  },
+  "ip-dst:port": "88.119.171.163:2804",
+  "type": "Network activity",
+  "tag_name": [
+    "AS61272",
+    "c2",
+    "censys",
+    "IST-AS",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19053"
+  },
+  "ip-dst:port": "139.84.173.55:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-VULTR",
+    "AS20473",
+    "c2",
+    "censys",
+    "Pupy",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19054"
+  },
+  "ip-dst:port": "193.83.1.168:4444",
+  "type": "Network activity",
+  "tag_name": [
+    "A1TELEKOM-AT",
+    "AS8447",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19055"
+  },
+  "ip-dst:port": "107.170.60.30:8000",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "asyncrat",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19056"
+  },
+  "ip-dst:port": "102.117.160.105:7443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23889",
+    "c2",
+    "censys",
+    "MauritiusTelecom",
+    "Mythic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19057"
+  },
+  "ip-dst:port": "45.81.115.141:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS205463",
+    "c2",
+    "censys",
+    "HookBot",
+    "PEMBEGULISG"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19058"
+  },
+  "ip-dst:port": "83.147.38.248:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS32097",
+    "c2",
+    "censys",
+    "HookBot",
+    "WII"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19059"
+  },
+  "ip-dst:port": "159.65.150.68:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "HookBot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1905a"
+  },
+  "ip-dst:port": "159.65.150.68:8082",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "HookBot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1905b"
+  },
+  "ip-dst:port": "195.211.190.134:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS214943",
+    "c2",
+    "censys",
+    "Havoc",
+    "RAILNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1905c"
+  },
+  "ip-dst:port": "195.211.190.134:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS214943",
+    "c2",
+    "censys",
+    "Havoc",
+    "RAILNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1905d"
+  },
+  "ip-dst:port": "45.76.87.204:7000",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-VULTR",
+    "AS20473",
+    "c2",
+    "censys",
+    "RAT",
+    "Venom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1905e"
+  },
+  "ip-dst:port": "23.227.199.88:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS29802",
+    "censys",
+    "EvilGinx",
+    "HVC-AS",
+    "panel",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1905f"
+  },
+  "ip-dst:port": "31.214.157.25:443",
+  "type": "Network activity",
+  "tag_name": [
+    "Latrodectus"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19060"
+  },
+  "ip-dst:port": "181.235.11.209:8090",
+  "type": "Network activity",
+  "tag_name": [
+    "AS3816",
+    "c2",
+    "censys",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19061"
+  },
+  "ip-dst:port": "185.101.23.248:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS17098",
+    "BROWNRICE-INTERNET-1",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19062"
+  },
+  "ip-dst:port": "3.215.224.47:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-AES",
+    "AS14618",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19063"
+  },
+  "ip-dst:port": "37.221.111.94:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS30475",
+    "censys",
+    "GoPhish",
+    "phishing",
+    "WEHOSTWEBSITES-COM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19064"
+  },
+  "ip-dst:port": "66.78.40.206:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS215659",
+    "censys",
+    "GoPhish",
+    "MOEMOEKYUN",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19065"
+  },
+  "ip-dst:port": "3.89.26.46:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-AES",
+    "AS14618",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19066"
+  },
+  "ip-dst:port": "165.232.147.95:1724",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19067"
+  },
+  "ip-dst:port": "134.209.38.96:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19068"
+  },
+  "ip-dst:port": "95.217.21.18:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS24940",
+    "censys",
+    "GoPhish",
+    "HETZNER-AS",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19069"
+  },
+  "ip-dst:port": "176.111.216.82:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-INCX",
+    "AS13737",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1906a"
+  },
+  "ip-dst:port": "194.62.166.165:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS27323",
+    "censys",
+    "GoPhish",
+    "phishing",
+    "SERVERSTADIUM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1906b"
+  },
+  "ip-dst:port": "139.255.109.52:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS9905",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1906c"
+  },
+  "ip-dst:port": "164.90.189.206:1724",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1906d"
+  },
+  "ip-dst:port": "93.177.109.20:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS400175",
+    "censys",
+    "GoPhish",
+    "MICROTRONIX-ESOLUTIONS",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1906e"
+  },
+  "ip-dst:port": "147.135.79.247:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS16276",
+    "censys",
+    "GoPhish",
+    "OVH",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1906f"
+  },
+  "ip-dst:port": "101.126.10.97:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS137718",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19070"
+  },
+  "ip-dst:port": "63.133.220.145:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-INCX",
+    "AS13737",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19071"
+  },
+  "ip-dst:port": "185.101.23.252:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS17098",
+    "BROWNRICE-INTERNET-1",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19072"
+  },
+  "ip-dst:port": "66.228.45.62:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS63949",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19073"
+  },
+  "ip-dst:port": "184.82.103.23:3333",
+  "type": "Network activity",
+  "tag_name": [
+    "AS133481",
+    "censys",
+    "GoPhish",
+    "phishing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19074"
+  },
+  "ip-dst:port": "198.12.81.146:7643",
+  "type": "Network activity",
+  "tag_name": [
+    "RAT",
+    "RemcosRAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19075"
+  },
+  "ip-dst:port": "159.69.103.4:443",
+  "type": "Network activity",
+  "tag_name": [
+    "Vidar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19076"
+  },
+  "ip-dst:port": "8.155.8.239:8888",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS37963",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-391144938"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19077"
+  },
+  "ip-dst:port": "23.27.48.179:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS149440",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666",
+    "EVOXTENTERPRISE-AS-AP"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19078"
+  },
+  "ip-dst:port": "123.56.252.127:8013",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS37963",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-0"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19079"
+  },
+  "ip-dst:port": "43.159.34.150:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS132203",
+    "c2",
+    "censys",
+    "Pupy",
+    "RAT",
+    "TENCENT-NET-AP-CN"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1907a"
+  },
+  "ip-dst:port": "82.115.223.130:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS214927",
+    "c2",
+    "censys",
+    "PSB-AS",
+    "sliver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1907b"
+  },
+  "ip-dst:port": "47.100.66.117:8889",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS37963",
+    "c2",
+    "censys",
+    "Supershell"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1907c"
+  },
+  "ip-dst:port": "123.58.220.204:8888",
+  "type": "Network activity",
+  "tag_name": [
+    "AS135377",
+    "c2",
+    "censys",
+    "Supershell",
+    "UCLOUD-HK-AS-AP"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1907d"
+  },
+  "ip-dst:port": "128.90.123.117:5000",
+  "type": "Network activity",
+  "tag_name": [
+    "AS40861",
+    "asyncrat",
+    "c2",
+    "censys",
+    "PARAD-40-ASN",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1907e"
+  },
+  "ip-dst:port": "207.231.111.82:306",
+  "type": "Network activity",
+  "tag_name": [
+    "AS62633",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT",
+    "SERVERDIME-SERVERCHEAP-HOSTRUSH"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1907f"
+  },
+  "ip-dst:port": "34.70.24.145:8808",
+  "type": "Network activity",
+  "tag_name": [
+    "AS396982",
+    "asyncrat",
+    "c2",
+    "censys",
+    "GOOGLE-CLOUD-PLATFORM",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19080"
+  },
+  "ip-dst:port": "5.101.103.31:8088",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "Havoc"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19081"
+  },
+  "ip-dst:port": "209.38.136.123:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS14061",
+    "c2",
+    "censys",
+    "DIGITALOCEAN-ASN",
+    "Havoc"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19082"
+  },
+  "ip-dst:port": "5.178.3.137:4444",
+  "type": "Network activity",
+  "tag_name": [
+    "AS61302",
+    "c2",
+    "censys",
+    "HUIZE_TELECOM",
+    "RAT",
+    "Venom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19083"
+  },
+  "ip-dst:port": "35.181.58.125:28491",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-02",
+    "AS16509",
+    "c2",
+    "censys",
+    "NetSupport",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19084"
+  },
+  "ip-dst:port": "51.52.92.243:7007",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetSupport",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19085"
+  },
+  "ip-dst:port": "44.203.45.132:20256",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetSupport",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19086"
+  },
+  "ip-dst:port": "56.124.106.90:9306",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetSupport",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19087"
+  },
+  "ip-dst:port": "185.219.81.19:31337",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "shodan",
+    "sliver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19088"
+  },
+  "ip-dst:port": "144.172.94.67:31337",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "shodan",
+    "sliver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19089"
+  },
+  "ip-dst:port": "140.82.20.165:1660",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "darkcomet",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1908a"
+  },
+  "ip-dst:port": "98.83.29.240:8500",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetBus",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1908b"
+  },
+  "ip-dst:port": "206.206.78.27:443",
+  "type": "Network activity",
+  "tag_name": [
+    "drb-ra",
+    "sliver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1908c"
+  },
+  "ip-dst:port": "154.205.157.23:443",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "CobaltStrike",
+    "cs-watermark-100000",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1908d"
+  },
+  "ip-dst:port": "36.131.175.88:4506",
+  "type": "Network activity",
+  "tag_name": [
+    "Deimos",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1908e"
+  },
+  "ip-dst:port": "140.238.207.208:2247",
+  "type": "Network activity",
+  "tag_name": [
+    "RAT",
+    "RemcosRAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1908f"
+  },
+  "ip-dst:port": "37.221.67.141:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "ALEXHOST",
+    "AS200019",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19090"
+  },
+  "ip-dst:port": "60.204.132.245:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS55990",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "HWCSNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19091"
+  },
+  "ip-dst:port": "23.106.153.196:4444",
+  "type": "Network activity",
+  "tag_name": [
+    "AS25820",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-305419896",
+    "IT7NET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19092"
+  },
+  "ip-dst:port": "193.26.115.83:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23470",
+    "c2",
+    "censys",
+    "RAT",
+    "RELIABLESITE",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19093"
+  },
+  "ip-dst:port": "176.65.139.69:4040",
+  "type": "Network activity",
+  "tag_name": [
+    "AS215240",
+    "c2",
+    "censys",
+    "NETRESEARCH",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19094"
+  },
+  "ip-dst:port": "164.132.247.190:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS16276",
+    "c2",
+    "censys",
+    "OVH",
+    "Pupy",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19095"
+  },
+  "ip-dst:port": "170.106.136.132:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS132203",
+    "c2",
+    "censys",
+    "payload",
+    "sliver",
+    "TENCENT-NET-AP-CN"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19096"
+  },
+  "ip-dst:port": "45.77.170.149:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS-VULTR",
+    "AS20473",
+    "c2",
+    "censys",
+    "RAT",
+    "shadowpad"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19097"
+  },
+  "ip-dst:port": "123.11.253.233:5873",
+  "type": "Network activity",
+  "tag_name": [
+    "AS4837",
+    "c2",
+    "censys",
+    "CHINA169-BACKBONE",
+    "Supershell"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19098"
+  },
+  "ip-dst:port": "95.215.206.172:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS211381",
+    "c2",
+    "censys",
+    "ERMAC",
+    "panel",
+    "PODAON"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed19099"
+  },
+  "ip-dst:port": "166.1.190.193:81",
+  "type": "Network activity",
+  "tag_name": [
+    "AS26383",
+    "ASNET",
+    "c2",
+    "censys",
+    "hacktool",
+    "Mimikatz",
+    "open-dir"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1909a"
+  },
+  "ip-dst:port": "93.88.203.236:443",
+  "type": "Network activity",
+  "tag_name": [
+    "Latrodectus"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1909b"
+  },
+  "ip-dst:port": "191.98.172.42:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "Tsunami"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1909c"
+  },
+  "ip-dst:port": "45.155.249.85:443",
+  "type": "Network activity",
+  "tag_name": [
+    "BUMBLEBEE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1909d"
+  },
+  "ip-dst:port": "176.118.193.128:443",
+  "type": "Network activity",
+  "tag_name": [
+    "BUMBLEBEE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1909e"
+  },
+  "ip-dst:port": "103.214.68.123:443",
+  "type": "Network activity",
+  "tag_name": [
+    "BUMBLEBEE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed1909f"
+  },
+  "ip-dst:port": "88.151.117.130:443",
+  "type": "Payload delivery",
+  "tag_name": [
+    "SocGholish"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a0"
+  },
+  "ip-dst:port": "185.171.81.16:443",
+  "type": "Payload delivery",
+  "tag_name": [
+    "SocGholish"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a1"
+  },
+  "ip-dst:port": "123.161.58.100:5443",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a2"
+  },
+  "ip-dst:port": "172.233.14.216:8443",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a3"
+  },
+  "ip-dst:port": "18.195.139.19:443",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a4"
+  },
+  "ip-dst:port": "82.147.84.189:80",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a5"
+  },
+  "ip-dst:port": "45.127.34.106:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS134677",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "IDC-AS-AP",
+    "SG"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a6"
+  },
+  "ip-dst:port": "47.92.211.202:80",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a7"
+  },
+  "ip-dst:port": "87.92.132.67:6001",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetSupport",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a8"
+  },
+  "ip-dst:port": "114.67.181.81:10001",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "extreme",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190a9"
+  },
+  "ip-dst:port": "98.83.29.240:8200",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NetBus",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190aa"
+  },
+  "ip-dst:port": "208.87.200.85:2053",
+  "type": "Network activity",
+  "tag_name": [
+    "AS133199",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666",
+    "SONDERCLOUDLIMITED-AS-AP"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190ab"
+  },
+  "ip-dst:port": "176.65.141.49:2431",
+  "type": "Network activity",
+  "tag_name": [
+    "AS215240",
+    "c2",
+    "censys",
+    "NETRESEARCH",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190ac"
+  },
+  "ip-dst:port": "69.167.28.183:8808",
+  "type": "Network activity",
+  "tag_name": [
+    "AS40861",
+    "asyncrat",
+    "c2",
+    "censys",
+    "PARAD-40-ASN",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190ad"
+  },
+  "ip-dst:port": "45.10.41.105:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS9123",
+    "c2",
+    "censys",
+    "Havoc",
+    "TIMEWEB-AS"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190ae"
+  },
+  "ip-dst:port": "186.169.72.217:1000",
+  "type": "Network activity",
+  "tag_name": [
+    "AS3816",
+    "c2",
+    "censys",
+    "COLOMBIA",
+    "dcrat",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190af"
+  },
+  "ip-dst:port": "47.239.161.52:8443",
+  "type": "Network activity",
+  "tag_name": [
+    "ALIBABA-CN-NET",
+    "AS45102",
+    "c2",
+    "censys",
+    "DeimosC2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b0"
+  },
+  "ip-dst:port": "194.26.192.222:8080",
+  "type": "Network activity",
+  "tag_name": [
+    "AS210558",
+    "c2",
+    "censys",
+    "ERMAC",
+    "panel",
+    "SERVICES-1337-GMBH"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b1"
+  },
+  "ip-dst:port": "95.217.30.172:443",
+  "type": "Network activity",
+  "tag_name": [
+    "Vidar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b2"
+  },
+  "ip-dst:port": "47.109.178.54:9999",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "CobaltStrike",
+    "cs-watermark-391144938",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b3"
+  },
+  "ip-dst:port": "144.76.54.100:54984",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "NanoCore",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b4"
+  },
+  "ip-dst:port": "172.96.165.138:10001",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "extreme",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b5"
+  },
+  "ip-dst:port": "197.201.44.253:50050",
+  "type": "Network activity",
+  "tag_name": [
+    "c2",
+    "CobaltStrike",
+    "shodan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b6"
+  },
+  "ip-dst:port": "38.54.15.88:8081",
+  "type": "Network activity",
+  "tag_name": [
+    "Antidot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b7"
+  },
+  "ip-dst:port": "195.3.223.146:5553",
+  "type": "Network activity",
+  "tag_name": [
+    "asyncrat",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b8"
+  },
+  "ip-dst:port": "156.225.18.219:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AS142032",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-987654321",
+    "HFTCL-AS-AP"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190b9"
+  },
+  "ip-dst:port": "38.207.132.101:8443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS932",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666",
+    "XNNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190ba"
+  },
+  "ip-dst:port": "38.207.132.101:12345",
+  "type": "Network activity",
+  "tag_name": [
+    "AS932",
+    "c2",
+    "censys",
+    "CobaltStrike",
+    "cs-watermark-666666666",
+    "XNNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190bb"
+  },
+  "ip-dst:port": "88.247.165.149:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "AS9121",
+    "c2",
+    "censys",
+    "darkcomet",
+    "RAT",
+    "TTNET"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190bc"
+  },
+  "ip-dst:port": "176.65.142.123:443",
+  "type": "Network activity",
+  "tag_name": [
+    "AS215240",
+    "c2",
+    "censys",
+    "NETRESEARCH",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190bd"
+  },
+  "ip-dst:port": "104.243.242.236:1692",
+  "type": "Network activity",
+  "tag_name": [
+    "AS212238",
+    "c2",
+    "CDNEXT",
+    "censys",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190be"
+  },
+  "ip-dst:port": "5.78.119.141:2404",
+  "type": "Network activity",
+  "tag_name": [
+    "AS212317",
+    "c2",
+    "censys",
+    "HETZNER-CLOUD3-AS",
+    "RAT",
+    "remcos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190bf"
+  },
+  "ip-dst:port": "123.11.143.166:5873",
+  "type": "Network activity",
+  "tag_name": [
+    "AS4837",
+    "c2",
+    "censys",
+    "CHINA169-BACKBONE",
+    "Supershell"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c0"
+  },
+  "ip-dst:port": "31.58.169.102:6606",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23470",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT",
+    "RELIABLESITE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c1"
+  },
+  "ip-dst:port": "31.58.169.102:7707",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23470",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT",
+    "RELIABLESITE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c2"
+  },
+  "ip-dst:port": "31.58.169.102:8808",
+  "type": "Network activity",
+  "tag_name": [
+    "AS23470",
+    "asyncrat",
+    "c2",
+    "censys",
+    "RAT",
+    "RELIABLESITE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c3"
+  },
+  "ip-dst:port": "45.149.241.44:4444",
+  "type": "Network activity",
+  "tag_name": [
+    "AS401116",
+    "asyncrat",
+    "c2",
+    "censys",
+    "NYBULA",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c4"
+  },
+  "ip-dst:port": "45.149.241.44:7777",
+  "type": "Network activity",
+  "tag_name": [
+    "AS401116",
+    "asyncrat",
+    "c2",
+    "censys",
+    "NYBULA",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c5"
+  },
+  "ip-dst:port": "195.26.245.113:7707",
+  "type": "Network activity",
+  "tag_name": [
+    "AS40021",
+    "asyncrat",
+    "c2",
+    "censys",
+    "NL-811-40021",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c6"
+  },
+  "ip-dst:port": "195.26.245.113:6606",
+  "type": "Network activity",
+  "tag_name": [
+    "AS40021",
+    "asyncrat",
+    "c2",
+    "censys",
+    "NL-811-40021",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c7"
+  },
+  "ip-dst:port": "54.178.158.125:80",
+  "type": "Network activity",
+  "tag_name": [
+    "AMAZON-02",
+    "AS16509",
+    "brc4",
+    "c2",
+    "censys"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c8"
+  },
+  "ip-dst:port": "103.215.81.156:60000",
+  "type": "Network activity",
+  "tag_name": [
+    "drb-ra",
+    "RAT"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190c9"
+  },
+  "ip-dst:port": "185.177.74.207:443",
+  "type": "Network activity",
+  "tag_name": [
+    "drb-ra",
+    "EyePyramid"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190ca"
+  },
+  "ip-dst:port": "188.49.122.255:995",
+  "type": "Network activity",
+  "tag_name": [
+    "drb-ra",
+    "QakBot",
+    "qbot",
+    "Quakbot"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190cb"
+  },
+  "ip-dst:port": "47.90.155.109:53",
+  "type": "Network activity",
+  "tag_name": [
+    "CobaltStrike",
+    "drb-ra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2bb9e3d0f8661ed190cc"
+  },
+  "ip-dst:port": "195.177.95.118:4782",
+  "type": "Network activity",
+  "tag_name": [
+    "XenoRAT"
+  ]
+}]

@@ -1,0 +1,2303 @@
+[{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2304b"
+  },
+  "yara_title": "AgentTesla_DIFF_Common_Strings_01.yar",
+  "file_path": "yara_rules/AgentTesla_DIFF_Common_Strings_01.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2304c"
+  },
+  "yara_title": "agenttesla_win_generic.yar",
+  "file_path": "yara_rules/agenttesla_win_generic.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2304d"
+  },
+  "yara_title": "AHK_DarkGate_Payload_April_2024.yar",
+  "file_path": "yara_rules/AHK_DarkGate_Payload_April_2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2304e"
+  },
+  "yara_title": "Android_Admin_And_Accessibility.yar",
+  "file_path": "yara_rules/Android_Admin_And_Accessibility.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2304f"
+  },
+  "yara_title": "android_apk_hook.yar",
+  "file_path": "yara_rules/android_apk_hook.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23050"
+  },
+  "yara_title": "Android_Backdoor_Xamalicious.yar",
+  "file_path": "yara_rules/Android_Backdoor_Xamalicious.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23051"
+  },
+  "yara_title": "Android_BankingTrojan_Hydra.yar",
+  "file_path": "yara_rules/Android_BankingTrojan_Hydra.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23052"
+  },
+  "yara_title": "anyburn_iso_with_date.yar",
+  "file_path": "yara_rules/anyburn_iso_with_date.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23053"
+  },
+  "yara_title": "AppLaunch.yar",
+  "file_path": "yara_rules/AppLaunch.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23054"
+  },
+  "yara_title": "APT_Bitter_Almond_RAT.yar",
+  "file_path": "yara_rules/APT_Bitter_Almond_RAT.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23055"
+  },
+  "yara_title": "APT_Bitter_Maldoc_Verify.yar",
+  "file_path": "yara_rules/APT_Bitter_Maldoc_Verify.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23056"
+  },
+  "yara_title": "APT_Bitter_PDB_Paths.yar",
+  "file_path": "yara_rules/APT_Bitter_PDB_Paths.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23057"
+  },
+  "yara_title": "APT_CN_Stately_Taurus_DLL_Backdoor_April2024.yar",
+  "file_path": "yara_rules/APT_CN_Stately_Taurus_DLL_Backdoor_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23058"
+  },
+  "yara_title": "APT_CN__Package2_DLL_April2024.yar",
+  "file_path": "yara_rules/APT_CN__Package2_DLL_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23059"
+  },
+  "yara_title": "APT_CN__Package2_EXE_April2024.yar",
+  "file_path": "yara_rules/APT_CN__Package2_EXE_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2305a"
+  },
+  "yara_title": "APT_Muddy_Water_MSI_RMM_Atera_April2024.yar",
+  "file_path": "yara_rules/APT_Muddy_Water_MSI_RMM_Atera_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2305b"
+  },
+  "yara_title": "apt_mustangpanda_poohloader.yar",
+  "file_path": "yara_rules/apt_mustangpanda_poohloader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2305c"
+  },
+  "yara_title": "APT_Patchwork_Code_Signing_Cert_March2024.yar",
+  "file_path": "yara_rules/APT_Patchwork_Code_Signing_Cert_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2305d"
+  },
+  "yara_title": "AteraAgent_RemoteAdmin_April_2024.yar",
+  "file_path": "yara_rules/AteraAgent_RemoteAdmin_April_2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2305e"
+  },
+  "yara_title": "avemaria_rat_yhub.yar",
+  "file_path": "yara_rules/avemaria_rat_yhub.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2305f"
+  },
+  "yara_title": "babbleloader_112024.yar",
+  "file_path": "yara_rules/babbleloader_112024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23060"
+  },
+  "yara_title": "babuk_copycat_esxi.yar",
+  "file_path": "yara_rules/babuk_copycat_esxi.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23061"
+  },
+  "yara_title": "BAT_DbatLoader.yar",
+  "file_path": "yara_rules/BAT_DbatLoader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23062"
+  },
+  "yara_title": "binaryObfuscation.yar",
+  "file_path": "yara_rules/binaryObfuscation.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23063"
+  },
+  "yara_title": "BlackMoon.yar",
+  "file_path": "yara_rules/BlackMoon.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23064"
+  },
+  "yara_title": "blocksig.yar",
+  "file_path": "yara_rules/blocksig.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23065"
+  },
+  "yara_title": "botnet_dayzddos.yar",
+  "file_path": "yara_rules/botnet_dayzddos.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23066"
+  },
+  "yara_title": "botnet_dedsec.yar",
+  "file_path": "yara_rules/botnet_dedsec.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23067"
+  },
+  "yara_title": "botnet_Kaiten.yar",
+  "file_path": "yara_rules/botnet_Kaiten.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23068"
+  },
+  "yara_title": "botnet_RyM.yar",
+  "file_path": "yara_rules/botnet_RyM.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23069"
+  },
+  "yara_title": "botnet_unknown.yar",
+  "file_path": "yara_rules/botnet_unknown.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2306a"
+  },
+  "yara_title": "botnet_Vixaati.yar",
+  "file_path": "yara_rules/botnet_Vixaati.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2306b"
+  },
+  "yara_title": "botnet_Yakuza.yar",
+  "file_path": "yara_rules/botnet_Yakuza.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2306c"
+  },
+  "yara_title": "BrainCipher.yar",
+  "file_path": "yara_rules/BrainCipher.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2306d"
+  },
+  "yara_title": "BrowserExtensionLoader.yar",
+  "file_path": "yara_rules/BrowserExtensionLoader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2306e"
+  },
+  "yara_title": "bruteratelc4.yar",
+  "file_path": "yara_rules/bruteratelc4.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2306f"
+  },
+  "yara_title": "BruteRatelConfig.yar",
+  "file_path": "yara_rules/BruteRatelConfig.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23070"
+  },
+  "yara_title": "bumblebee_win_generic.yar",
+  "file_path": "yara_rules/bumblebee_win_generic.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23071"
+  },
+  "yara_title": "caspratique_lumma.yar",
+  "file_path": "yara_rules/caspratique_lumma.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23072"
+  },
+  "yara_title": "Chinese_APT_Backdoor.yar",
+  "file_path": "yara_rules/Chinese_APT_Backdoor.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23073"
+  },
+  "yara_title": "ClipperDLL_Amadey.yar",
+  "file_path": "yara_rules/ClipperDLL_Amadey.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23074"
+  },
+  "yara_title": "cobalt_strike_tmp01925d3f.yar",
+  "file_path": "yara_rules/cobalt_strike_tmp01925d3f.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23075"
+  },
+  "yara_title": "crashedtech_loader.yar",
+  "file_path": "yara_rules/crashedtech_loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23076"
+  },
+  "yara_title": "crime_unidentified_118.yar",
+  "file_path": "yara_rules/crime_unidentified_118.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23077"
+  },
+  "yara_title": "CrimsonRAT.yar",
+  "file_path": "yara_rules/CrimsonRAT.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23078"
+  },
+  "yara_title": "CVE_2017_17215.yar",
+  "file_path": "yara_rules/CVE_2017_17215.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23079"
+  },
+  "yara_title": "DanaBot_12_2023.yar",
+  "file_path": "yara_rules/DanaBot_12_2023.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2307a"
+  },
+  "yara_title": "DarkTortilla_1stStage.yar",
+  "file_path": "yara_rules/DarkTortilla_1stStage.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2307b"
+  },
+  "yara_title": "DarkTortilla_2ndStage.yar",
+  "file_path": "yara_rules/DarkTortilla_2ndStage.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2307c"
+  },
+  "yara_title": "DarkTortilla_Installer.yar",
+  "file_path": "yara_rules/DarkTortilla_Installer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2307d"
+  },
+  "yara_title": "DarkVision_upload.yar",
+  "file_path": "yara_rules/DarkVision_upload.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2307e"
+  },
+  "yara_title": "dcrat_rkp.yar",
+  "file_path": "yara_rules/dcrat_rkp.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2307f"
+  },
+  "yara_title": "DetectGoMethodSignatures.yar",
+  "file_path": "yara_rules/DetectGoMethodSignatures.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23080"
+  },
+  "yara_title": "detect_braodo_stealer.yar",
+  "file_path": "yara_rules/detect_braodo_stealer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23081"
+  },
+  "yara_title": "Detect_Dead_Family.yar",
+  "file_path": "yara_rules/Detect_Dead_Family.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23082"
+  },
+  "yara_title": "detect_qbot_v5.yar",
+  "file_path": "yara_rules/detect_qbot_v5.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23083"
+  },
+  "yara_title": "detect_Redline_Stealer.yar",
+  "file_path": "yara_rules/detect_Redline_Stealer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23084"
+  },
+  "yara_title": "detect_Redline_Stealer_V2.yar",
+  "file_path": "yara_rules/detect_Redline_Stealer_V2.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23085"
+  },
+  "yara_title": "detect_RWS_pe_rule.yar",
+  "file_path": "yara_rules/detect_RWS_pe_rule.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23086"
+  },
+  "yara_title": "Detect_SliverFox_String.yar",
+  "file_path": "yara_rules/Detect_SliverFox_String.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23087"
+  },
+  "yara_title": "Diff_QuasarRAT_01.yar",
+  "file_path": "yara_rules/Diff_QuasarRAT_01.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23088"
+  },
+  "yara_title": "Disable_Defender.yar",
+  "file_path": "yara_rules/Disable_Defender.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23089"
+  },
+  "yara_title": "Dll_Backdoor_FalseFront_Jan2024.yar",
+  "file_path": "yara_rules/Dll_Backdoor_FalseFront_Jan2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2308a"
+  },
+  "yara_title": "DLL_BankingTrojan_Coyote_Feb2024.yar",
+  "file_path": "yara_rules/DLL_BankingTrojan_Coyote_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2308b"
+  },
+  "yara_title": "DLL_Banking_Trojan_Chavecloak_March2024.yar",
+  "file_path": "yara_rules/DLL_Banking_Trojan_Chavecloak_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2308c"
+  },
+  "yara_title": "DLL_DiceLoader_Fin7_Feb2024.yar",
+  "file_path": "yara_rules/DLL_DiceLoader_Fin7_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2308d"
+  },
+  "yara_title": "DLL_gh0st_Dropper_second_stage_March2024.yar",
+  "file_path": "yara_rules/DLL_gh0st_Dropper_second_stage_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2308e"
+  },
+  "yara_title": "DLL_gh0st_Rootkit_second_stage_March2024.yar",
+  "file_path": "yara_rules/DLL_gh0st_Rootkit_second_stage_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2308f"
+  },
+  "yara_title": "DLL_Loader_BlackWood_APT_Jan2024.yar",
+  "file_path": "yara_rules/DLL_Loader_BlackWood_APT_Jan2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23090"
+  },
+  "yara_title": "DLL_Loader_Pikabot_March2024.yar",
+  "file_path": "yara_rules/DLL_Loader_Pikabot_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23091"
+  },
+  "yara_title": "DLL_Loader_Wineloader_March2024.yar",
+  "file_path": "yara_rules/DLL_Loader_Wineloader_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23092"
+  },
+  "yara_title": "DLL_Mustang_Panda_March2024.yar",
+  "file_path": "yara_rules/DLL_Mustang_Panda_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23093"
+  },
+  "yara_title": "DLL_News_Penguin_Feb2024.yar",
+  "file_path": "yara_rules/DLL_News_Penguin_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23094"
+  },
+  "yara_title": "DLL_North_Korean_Lazarus_March2024.yar",
+  "file_path": "yara_rules/DLL_North_Korean_Lazarus_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23095"
+  },
+  "yara_title": "DLL_PyPi_Comebacker_Lazarus_March2024.yar",
+  "file_path": "yara_rules/DLL_PyPi_Comebacker_Lazarus_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23096"
+  },
+  "yara_title": "DLL_PyPi_Loader_Lazarus_March2024.yar",
+  "file_path": "yara_rules/DLL_PyPi_Loader_Lazarus_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23097"
+  },
+  "yara_title": "DLL_RAT_WogRAT_March2024.yar",
+  "file_path": "yara_rules/DLL_RAT_WogRAT_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23098"
+  },
+  "yara_title": "DLL_RAT_Xeno_Feb2024.yar",
+  "file_path": "yara_rules/DLL_RAT_Xeno_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23099"
+  },
+  "yara_title": "DLL_RWX_S_Signed_Search.yar",
+  "file_path": "yara_rules/DLL_RWX_S_Signed_Search.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2309a"
+  },
+  "yara_title": "DLL_Stealer_Ov3rStealer_Feb2024.yar",
+  "file_path": "yara_rules/DLL_Stealer_Ov3rStealer_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2309b"
+  },
+  "yara_title": "DLL_Stealer_Strela_March2024.yar",
+  "file_path": "yara_rules/DLL_Stealer_Strela_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2309c"
+  },
+  "yara_title": "DLL_TinyTurla_PE_Properties_Feb2024.yar",
+  "file_path": "yara_rules/DLL_TinyTurla_PE_Properties_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2309d"
+  },
+  "yara_title": "DLL_TinyTurla_Strings_Feb2024.yar",
+  "file_path": "yara_rules/DLL_TinyTurla_Strings_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2309e"
+  },
+  "yara_title": "DLL_Unknown_China_Feb2024.yar",
+  "file_path": "yara_rules/DLL_Unknown_China_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2309f"
+  },
+  "yara_title": "ELF_Backdoor_ZipLine_Feb2024.yar",
+  "file_path": "yara_rules/ELF_Backdoor_ZipLine_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a0"
+  },
+  "yara_title": "ELF_Implant_COATHANGER_Feb2024.yar",
+  "file_path": "yara_rules/ELF_Implant_COATHANGER_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a1"
+  },
+  "yara_title": "ELF_Loader_KrustyLoader_Feb2024.yar",
+  "file_path": "yara_rules/ELF_Loader_KrustyLoader_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a2"
+  },
+  "yara_title": "ELF_Mirai.yar",
+  "file_path": "yara_rules/ELF_Mirai.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a3"
+  },
+  "yara_title": "ELF_RANSOMWARE_BLACKCAT.yar",
+  "file_path": "yara_rules/ELF_RANSOMWARE_BLACKCAT.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a4"
+  },
+  "yara_title": "ELF_RAT_Bifrost_March2024.yar",
+  "file_path": "yara_rules/ELF_RAT_Bifrost_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a5"
+  },
+  "yara_title": "ELF_RAT_Dinodas_April2024.yar",
+  "file_path": "yara_rules/ELF_RAT_Dinodas_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a6"
+  },
+  "yara_title": "elf_rekoobe_b3_06c9.yar",
+  "file_path": "yara_rules/elf_rekoobe_b3_06c9.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a7"
+  },
+  "yara_title": "ELF_Wiper_AcidRain_March2024.yar",
+  "file_path": "yara_rules/ELF_Wiper_AcidRain_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a8"
+  },
+  "yara_title": "embargo_win_generic.yar",
+  "file_path": "yara_rules/embargo_win_generic.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230a9"
+  },
+  "yara_title": "Embedded_RTF_File.yar",
+  "file_path": "yara_rules/Embedded_RTF_File.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230aa"
+  },
+  "yara_title": "Erbium_Loader.yar",
+  "file_path": "yara_rules/Erbium_Loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ab"
+  },
+  "yara_title": "Erbium_Stealer_Obfuscated.yar",
+  "file_path": "yara_rules/Erbium_Stealer_Obfuscated.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ac"
+  },
+  "yara_title": "EXE_Backdoor_GoBear_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Backdoor_GoBear_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ad"
+  },
+  "yara_title": "EXE_Backdoor_OceanMap_March2024.yar",
+  "file_path": "yara_rules/EXE_Backdoor_OceanMap_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ae"
+  },
+  "yara_title": "EXE_Backdoor_Rust_March2024.yar",
+  "file_path": "yara_rules/EXE_Backdoor_Rust_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230af"
+  },
+  "yara_title": "EXE_gh0st_Dropper_first_stage_March2024.yar",
+  "file_path": "yara_rules/EXE_gh0st_Dropper_first_stage_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b0"
+  },
+  "yara_title": "EXE_gh0st_RootKit_first_stage_March2024.yar",
+  "file_path": "yara_rules/EXE_gh0st_RootKit_first_stage_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b1"
+  },
+  "yara_title": "EXE_ICS_Indusroyer2_April2024.yar",
+  "file_path": "yara_rules/EXE_ICS_Indusroyer2_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b2"
+  },
+  "yara_title": "EXE_ICS_IronGate_April2024.yar",
+  "file_path": "yara_rules/EXE_ICS_IronGate_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b3"
+  },
+  "yara_title": "EXE_ICS_Triton_April2024.yar",
+  "file_path": "yara_rules/EXE_ICS_Triton_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b4"
+  },
+  "yara_title": "EXE_Loader_WikiLoader_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Loader_WikiLoader_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b5"
+  },
+  "yara_title": "EXE_Loader_XDealer_March2024.yar",
+  "file_path": "yara_rules/EXE_Loader_XDealer_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b6"
+  },
+  "yara_title": "EXE_Python_Stealer_Jan2024.yar",
+  "file_path": "yara_rules/EXE_Python_Stealer_Jan2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b7"
+  },
+  "yara_title": "EXE_Ransomware_Mimic.yar",
+  "file_path": "yara_rules/EXE_Ransomware_Mimic.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b8"
+  },
+  "yara_title": "EXE_Ransomware_Nevada_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Ransomware_Nevada_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230b9"
+  },
+  "yara_title": "EXE_Ransomware_Phobos_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Ransomware_Phobos_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ba"
+  },
+  "yara_title": "EXE_Ransomware_Tuga_March2024.yar",
+  "file_path": "yara_rules/EXE_Ransomware_Tuga_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230bb"
+  },
+  "yara_title": "EXE_RAT_vxRAT_March2024.yar",
+  "file_path": "yara_rules/EXE_RAT_vxRAT_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230bc"
+  },
+  "yara_title": "EXE_RAT_XWorm_April2024.yar",
+  "file_path": "yara_rules/EXE_RAT_XWorm_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230bd"
+  },
+  "yara_title": "EXE_Stealer_44Caliber_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_44Caliber_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230be"
+  },
+  "yara_title": "EXE_Stealer_Atlantida.yar",
+  "file_path": "yara_rules/EXE_Stealer_Atlantida.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230bf"
+  },
+  "yara_title": "EXE_Stealer_Azorult_March2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_Azorult_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c0"
+  },
+  "yara_title": "EXE_Stealer_CryptBot_March2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_CryptBot_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c1"
+  },
+  "yara_title": "EXE_Stealer_Elusive_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_Elusive_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c2"
+  },
+  "yara_title": "EXE_Stealer_Nightingale_Imphash_Jan2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_Nightingale_Imphash_Jan2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c3"
+  },
+  "yara_title": "EXE_Stealer_Nightingale_Jan2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_Nightingale_Jan2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c4"
+  },
+  "yara_title": "EXE_Stealer_Phemedrone_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_Phemedrone_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c5"
+  },
+  "yara_title": "EXE_Stealer_Planet_March2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_Planet_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c6"
+  },
+  "yara_title": "EXE_Stealer_RisePro_Jan2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_RisePro_Jan2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c7"
+  },
+  "yara_title": "EXE_Stealer_RustyStealer_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_RustyStealer_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c8"
+  },
+  "yara_title": "EXE_Stealer_Strela_March2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_Strela_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230c9"
+  },
+  "yara_title": "EXE_Stealer_TrollStealer_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_TrollStealer_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ca"
+  },
+  "yara_title": "EXE_Stealer_WhiteSnake_Jan2024.yar",
+  "file_path": "yara_rules/EXE_Stealer_WhiteSnake_Jan2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230cb"
+  },
+  "yara_title": "EXE_Trojan_RomCom_Feb2024.yar",
+  "file_path": "yara_rules/EXE_Trojan_RomCom_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230cc"
+  },
+  "yara_title": "EXE_Unknown_Backdoor_March2024.yar",
+  "file_path": "yara_rules/EXE_Unknown_Backdoor_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230cd"
+  },
+  "yara_title": "EXE_Unknown_Byakugan_April2024.yar",
+  "file_path": "yara_rules/EXE_Unknown_Byakugan_April2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ce"
+  },
+  "yara_title": "EXE_Virus_Neshta_March2024.yar",
+  "file_path": "yara_rules/EXE_Virus_Neshta_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230cf"
+  },
+  "yara_title": "EXPLOIT_WinRAR_CVE_2023_38831_Aug23.yar",
+  "file_path": "yara_rules/EXPLOIT_WinRAR_CVE_2023_38831_Aug23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d0"
+  },
+  "yara_title": "Foudre_Backdoor.yar",
+  "file_path": "yara_rules/Foudre_Backdoor.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d1"
+  },
+  "yara_title": "GenericRedLineLike.yar",
+  "file_path": "yara_rules/GenericRedLineLike.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d2"
+  },
+  "yara_title": "Generic_FakeCaptchaPage.yar",
+  "file_path": "yara_rules/Generic_FakeCaptchaPage.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d3"
+  },
+  "yara_title": "generic_mal_netad_collector.yar",
+  "file_path": "yara_rules/generic_mal_netad_collector.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d4"
+  },
+  "yara_title": "GHISLER_Stealer_1.yar",
+  "file_path": "yara_rules/GHISLER_Stealer_1.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d5"
+  },
+  "yara_title": "globalnet_files.yar",
+  "file_path": "yara_rules/globalnet_files.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d6"
+  },
+  "yara_title": "golang_bin_JCorn_CSC846.yar",
+  "file_path": "yara_rules/golang_bin_JCorn_CSC846.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d7"
+  },
+  "yara_title": "Guloader_VBScript.yar",
+  "file_path": "yara_rules/Guloader_VBScript.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d8"
+  },
+  "yara_title": "Heuristics_ChromeCookieMonster.yar",
+  "file_path": "yara_rules/Heuristics_ChromeCookieMonster.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230d9"
+  },
+  "yara_title": "hunt_redline_stealer.yar",
+  "file_path": "yara_rules/hunt_redline_stealer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230da"
+  },
+  "yara_title": "HydraPOS.yar",
+  "file_path": "yara_rules/HydraPOS.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230db"
+  },
+  "yara_title": "icedid_2stager.yar",
+  "file_path": "yara_rules/icedid_2stager.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230dc"
+  },
+  "yara_title": "IcedID_ISO.yar",
+  "file_path": "yara_rules/IcedID_ISO.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230dd"
+  },
+  "yara_title": "icedid_unpacked.yar",
+  "file_path": "yara_rules/icedid_unpacked.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230de"
+  },
+  "yara_title": "Icedid_Unpacked_in_Memory.yar",
+  "file_path": "yara_rules/Icedid_Unpacked_in_Memory.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230df"
+  },
+  "yara_title": "icedid_x64dll_stager.yar",
+  "file_path": "yara_rules/icedid_x64dll_stager.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e0"
+  },
+  "yara_title": "IDATDropper.yar",
+  "file_path": "yara_rules/IDATDropper.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e1"
+  },
+  "yara_title": "ISO_LNK_JS_CMD_DLL.yar",
+  "file_path": "yara_rules/ISO_LNK_JS_CMD_DLL.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e2"
+  },
+  "yara_title": "ItsSoEasy_Ransomware.yar",
+  "file_path": "yara_rules/ItsSoEasy_Ransomware.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e3"
+  },
+  "yara_title": "ItsSoEasy_Ransomware_basic.yar",
+  "file_path": "yara_rules/ItsSoEasy_Ransomware_basic.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e4"
+  },
+  "yara_title": "ItsSoEasy_Ransomware_C_Var.yar",
+  "file_path": "yara_rules/ItsSoEasy_Ransomware_C_Var.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e5"
+  },
+  "yara_title": "ItsSoEasy_Ransomware_Go_Var.yar",
+  "file_path": "yara_rules/ItsSoEasy_Ransomware_Go_Var.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e6"
+  },
+  "yara_title": "ItsSoEasy_Ransomware_Py_Var.yar",
+  "file_path": "yara_rules/ItsSoEasy_Ransomware_Py_Var.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e7"
+  },
+  "yara_title": "JohnWalkerTexasLoader.yar",
+  "file_path": "yara_rules/JohnWalkerTexasLoader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e8"
+  },
+  "yara_title": "Kimsuky_related.yar",
+  "file_path": "yara_rules/Kimsuky_related.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230e9"
+  },
+  "yara_title": "KoiLoader.yar",
+  "file_path": "yara_rules/KoiLoader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ea"
+  },
+  "yara_title": "koi_loader.yar",
+  "file_path": "yara_rules/koi_loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230eb"
+  },
+  "yara_title": "KRUEGER.yar",
+  "file_path": "yara_rules/KRUEGER.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ec"
+  },
+  "yara_title": "kryptina_encryptor.yar",
+  "file_path": "yara_rules/kryptina_encryptor.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ed"
+  },
+  "yara_title": "LATAMHotel_Obfuscated_BAT.yar",
+  "file_path": "yara_rules/LATAMHotel_Obfuscated_BAT.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ee"
+  },
+  "yara_title": "latrodectus_decrypt_string.yar",
+  "file_path": "yara_rules/latrodectus_decrypt_string.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ef"
+  },
+  "yara_title": "LimeRAT.yar",
+  "file_path": "yara_rules/LimeRAT.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f0"
+  },
+  "yara_title": "Linux_Downloader.yar",
+  "file_path": "yara_rules/Linux_Downloader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f1"
+  },
+  "yara_title": "LNK_Dropper_Russian_APT_Feb2024.yar",
+  "file_path": "yara_rules/LNK_Dropper_Russian_APT_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f2"
+  },
+  "yara_title": "lnk_from_chinese.yar",
+  "file_path": "yara_rules/lnk_from_chinese.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f3"
+  },
+  "yara_title": "loader_win_bumblebee.yar",
+  "file_path": "yara_rules/loader_win_bumblebee.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f4"
+  },
+  "yara_title": "LockBit3_ransomware.yar",
+  "file_path": "yara_rules/LockBit3_ransomware.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f5"
+  },
+  "yara_title": "LockbitBlack_Loader.yar",
+  "file_path": "yara_rules/LockbitBlack_Loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f6"
+  },
+  "yara_title": "lockbitblack_ransomnote.yar",
+  "file_path": "yara_rules/lockbitblack_ransomnote.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f7"
+  },
+  "yara_title": "LokiPWS.yar",
+  "file_path": "yara_rules/LokiPWS.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f8"
+  },
+  "yara_title": "lsi_remcos2.yar",
+  "file_path": "yara_rules/lsi_remcos2.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230f9"
+  },
+  "yara_title": "LucaStealer.yar",
+  "file_path": "yara_rules/LucaStealer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230fa"
+  },
+  "yara_title": "LummaInjector.yar",
+  "file_path": "yara_rules/LummaInjector.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230fb"
+  },
+  "yara_title": "MALWARE_APT29_SVG_Delivery_Jul23.yar",
+  "file_path": "yara_rules/MALWARE_APT29_SVG_Delivery_Jul23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230fc"
+  },
+  "yara_title": "malware_bumblebee_packed.yar",
+  "file_path": "yara_rules/malware_bumblebee_packed.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230fd"
+  },
+  "yara_title": "MALWARE_Emotet_OneNote_Delivery_js_Mar23.yar",
+  "file_path": "yara_rules/MALWARE_Emotet_OneNote_Delivery_js_Mar23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230fe"
+  },
+  "yara_title": "MALWARE_Emotet_OneNote_Delivery_vbs_Mar23.yar",
+  "file_path": "yara_rules/MALWARE_Emotet_OneNote_Delivery_vbs_Mar23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee230ff"
+  },
+  "yara_title": "MALWARE_Emotet_OneNote_Delivery_wsf_Mar23.yar",
+  "file_path": "yara_rules/MALWARE_Emotet_OneNote_Delivery_wsf_Mar23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23100"
+  },
+  "yara_title": "MALWARE_OneNote_Delivery_Jan23.yar",
+  "file_path": "yara_rules/MALWARE_OneNote_Delivery_Jan23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23101"
+  },
+  "yara_title": "MALWARE_Storm0978_HTML_PROTHANDLER_Jul23.yar",
+  "file_path": "yara_rules/MALWARE_Storm0978_HTML_PROTHANDLER_Jul23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23102"
+  },
+  "yara_title": "MALWARE_Storm0978_Underground_Ransomware_Jul23.yar",
+  "file_path": "yara_rules/MALWARE_Storm0978_Underground_Ransomware_Jul23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23103"
+  },
+  "yara_title": "MAL_Cronos_Crypter_Assembly_Name.yar",
+  "file_path": "yara_rules/MAL_Cronos_Crypter_Assembly_Name.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23104"
+  },
+  "yara_title": "MAL_Cronos_Crypter_Salt.yar",
+  "file_path": "yara_rules/MAL_Cronos_Crypter_Salt.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23105"
+  },
+  "yara_title": "MAL_Cronos_Crypter_Strings.yar",
+  "file_path": "yara_rules/MAL_Cronos_Crypter_Strings.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23106"
+  },
+  "yara_title": "mal_italianpasta_pastaloader.yar",
+  "file_path": "yara_rules/mal_italianpasta_pastaloader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23107"
+  },
+  "yara_title": "MAL_JS_Gootloader_jQuery_Compactv2_17Dec24.yar",
+  "file_path": "yara_rules/MAL_JS_Gootloader_jQuery_Compactv2_17Dec24.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23108"
+  },
+  "yara_title": "mal_strings_xwormRAT.yar",
+  "file_path": "yara_rules/mal_strings_xwormRAT.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23109"
+  },
+  "yara_title": "MarioLocker.yar",
+  "file_path": "yara_rules/MarioLocker.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2310a"
+  },
+  "yara_title": "Matanbuchus_MSI_2.yar",
+  "file_path": "yara_rules/Matanbuchus_MSI_2.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2310b"
+  },
+  "yara_title": "meth_get_eip.yar",
+  "file_path": "yara_rules/meth_get_eip.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2310c"
+  },
+  "yara_title": "meth_peb_parsing.yar",
+  "file_path": "yara_rules/meth_peb_parsing.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2310d"
+  },
+  "yara_title": "meth_stackstrings.yar",
+  "file_path": "yara_rules/meth_stackstrings.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2310e"
+  },
+  "yara_title": "mofongo_loader.yar",
+  "file_path": "yara_rules/mofongo_loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2310f"
+  },
+  "yara_title": "MX_fin_custom_allakore_rat.yar",
+  "file_path": "yara_rules/MX_fin_custom_allakore_rat.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23110"
+  },
+  "yara_title": "NET_LOADER_Invoice.yar",
+  "file_path": "yara_rules/NET_LOADER_Invoice.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23111"
+  },
+  "yara_title": "Nymaim.yar",
+  "file_path": "yara_rules/Nymaim.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23112"
+  },
+  "yara_title": "obfs_foreach_object.yar",
+  "file_path": "yara_rules/obfs_foreach_object.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23113"
+  },
+  "yara_title": "Old_Code__Signature_AnyDesk_Feb2024.yar",
+  "file_path": "yara_rules/Old_Code__Signature_AnyDesk_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23114"
+  },
+  "yara_title": "OneNote_EmbeddedFiles_NoPictures.yar",
+  "file_path": "yara_rules/OneNote_EmbeddedFiles_NoPictures.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23115"
+  },
+  "yara_title": "PaaS_SpearPhishing_Feb23.yar",
+  "file_path": "yara_rules/PaaS_SpearPhishing_Feb23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23116"
+  },
+  "yara_title": "PassProtected_ZIP_ISO_file.yar",
+  "file_path": "yara_rules/PassProtected_ZIP_ISO_file.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23117"
+  },
+  "yara_title": "pe_detect_tls_callbacks.yar",
+  "file_path": "yara_rules/pe_detect_tls_callbacks.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23118"
+  },
+  "yara_title": "pe_no_import_table.yar",
+  "file_path": "yara_rules/pe_no_import_table.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23119"
+  },
+  "yara_title": "pe_packer_pecompact2.yar",
+  "file_path": "yara_rules/pe_packer_pecompact2.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2311a"
+  },
+  "yara_title": "php_hide_wp_plugin_a8b373fb.yar",
+  "file_path": "yara_rules/php_hide_wp_plugin_a8b373fb.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2311b"
+  },
+  "yara_title": "PickleOrNot.yar",
+  "file_path": "yara_rules/PickleOrNot.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2311c"
+  },
+  "yara_title": "PikaBot_Stage1_20240222.yar",
+  "file_path": "yara_rules/PikaBot_Stage1_20240222.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2311d"
+  },
+  "yara_title": "Play_Ransomware.yar",
+  "file_path": "yara_rules/Play_Ransomware.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2311e"
+  },
+  "yara_title": "PNG_File_Malware_Abuse.yar",
+  "file_path": "yara_rules/PNG_File_Malware_Abuse.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2311f"
+  },
+  "yara_title": "Powerpoint_Code_Execution.yar",
+  "file_path": "yara_rules/Powerpoint_Code_Execution.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23120"
+  },
+  "yara_title": "privateloader.yar",
+  "file_path": "yara_rules/privateloader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23121"
+  },
+  "yara_title": "PseudoManuscriptLoader.yar",
+  "file_path": "yara_rules/PseudoManuscriptLoader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23122"
+  },
+  "yara_title": "PUPPETLOADER_loader.yar",
+  "file_path": "yara_rules/PUPPETLOADER_loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23123"
+  },
+  "yara_title": "PureCryptCMD.yar",
+  "file_path": "yara_rules/PureCryptCMD.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23124"
+  },
+  "yara_title": "Python_MasePie.yar",
+  "file_path": "yara_rules/Python_MasePie.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23125"
+  },
+  "yara_title": "Qakbot_IsoCampaign.yar",
+  "file_path": "yara_rules/Qakbot_IsoCampaign.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23126"
+  },
+  "yara_title": "QakBot_OneNote_Loader.yar",
+  "file_path": "yara_rules/QakBot_OneNote_Loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23127"
+  },
+  "yara_title": "Qakbot_WSF_loader.yar",
+  "file_path": "yara_rules/Qakbot_WSF_loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23128"
+  },
+  "yara_title": "QBOT_HTMLSmuggling_a.yar",
+  "file_path": "yara_rules/QBOT_HTMLSmuggling_a.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23129"
+  },
+  "yara_title": "RABBITHUNT_cls.yar",
+  "file_path": "yara_rules/RABBITHUNT_cls.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2312a"
+  },
+  "yara_title": "RABBITHUNT_loader.yar",
+  "file_path": "yara_rules/RABBITHUNT_loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2312b"
+  },
+  "yara_title": "RaccoonStealerV2.yar",
+  "file_path": "yara_rules/RaccoonStealerV2.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2312c"
+  },
+  "yara_title": "RaccoonV2.yar",
+  "file_path": "yara_rules/RaccoonV2.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2312d"
+  },
+  "yara_title": "RANSOMWARE.yar",
+  "file_path": "yara_rules/RANSOMWARE.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2312e"
+  },
+  "yara_title": "RANSOM_ESXiArgs_Ransomware_Bash_Feb23.yar",
+  "file_path": "yara_rules/RANSOM_ESXiArgs_Ransomware_Bash_Feb23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2312f"
+  },
+  "yara_title": "RANSOM_ESXiArgs_Ransomware_Encryptor_Feb23.yar",
+  "file_path": "yara_rules/RANSOM_ESXiArgs_Ransomware_Encryptor_Feb23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23130"
+  },
+  "yara_title": "RANSOM_ESXiArgs_Ransomware_Python_Feb23.yar",
+  "file_path": "yara_rules/RANSOM_ESXiArgs_Ransomware_Python_Feb23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23131"
+  },
+  "yara_title": "RANSOM_Lockbit_Black_Packer.yar",
+  "file_path": "yara_rules/RANSOM_Lockbit_Black_Packer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23132"
+  },
+  "yara_title": "RANSOM_Magniber_ISO_Jan23.yar",
+  "file_path": "yara_rules/RANSOM_Magniber_ISO_Jan23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23133"
+  },
+  "yara_title": "RANSOM_Magniber_LNK_Jan23.yar",
+  "file_path": "yara_rules/RANSOM_Magniber_LNK_Jan23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23134"
+  },
+  "yara_title": "RAT_remcos_strings.yar",
+  "file_path": "yara_rules/RAT_remcos_strings.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23135"
+  },
+  "yara_title": "recordbreaker_win_generic.yar",
+  "file_path": "yara_rules/recordbreaker_win_generic.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23136"
+  },
+  "yara_title": "RedCurl_FSABIN.yar",
+  "file_path": "yara_rules/RedCurl_FSABIN.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23137"
+  },
+  "yara_title": "RedLineStealerNyaxXCat.yar",
+  "file_path": "yara_rules/RedLineStealerNyaxXCat.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23138"
+  },
+  "yara_title": "redline_win_generic.yar",
+  "file_path": "yara_rules/redline_win_generic.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23139"
+  },
+  "yara_title": "RobotDropper.yar",
+  "file_path": "yara_rules/RobotDropper.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2313a"
+  },
+  "yara_title": "ScanStringsInsocks5systemz.yar",
+  "file_path": "yara_rules/ScanStringsInsocks5systemz.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2313b"
+  },
+  "yara_title": "ScareCrow_Malware.yar",
+  "file_path": "yara_rules/ScareCrow_Malware.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2313c"
+  },
+  "yara_title": "SelfExtractingRAR.yar",
+  "file_path": "yara_rules/SelfExtractingRAR.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2313d"
+  },
+  "yara_title": "sfx_pdb_winrar_restrict.yar",
+  "file_path": "yara_rules/sfx_pdb_winrar_restrict.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2313e"
+  },
+  "yara_title": "signed_sys_with_vulnerablity.yar",
+  "file_path": "yara_rules/signed_sys_with_vulnerablity.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2313f"
+  },
+  "yara_title": "SilverRAT.yar",
+  "file_path": "yara_rules/SilverRAT.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23140"
+  },
+  "yara_title": "SimpleTea.yar",
+  "file_path": "yara_rules/SimpleTea.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23141"
+  },
+  "yara_title": "SocGholish_Custom_Base64.yar",
+  "file_path": "yara_rules/SocGholish_Custom_Base64.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23142"
+  },
+  "yara_title": "SocGholish_Obfuscated.yar",
+  "file_path": "yara_rules/SocGholish_Obfuscated.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23143"
+  },
+  "yara_title": "SocGholish_Variant_B.yar",
+  "file_path": "yara_rules/SocGholish_Variant_B.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23144"
+  },
+  "yara_title": "sqlcmd_loader.yar",
+  "file_path": "yara_rules/sqlcmd_loader.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23145"
+  },
+  "yara_title": "StealcConfig.yar",
+  "file_path": "yara_rules/StealcConfig.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23146"
+  },
+  "yara_title": "stealc_ioc_hifi.yar",
+  "file_path": "yara_rules/stealc_ioc_hifi.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23147"
+  },
+  "yara_title": "StealerDLL_Amadey.yar",
+  "file_path": "yara_rules/StealerDLL_Amadey.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23148"
+  },
+  "yara_title": "Stealerium.yar",
+  "file_path": "yara_rules/Stealerium.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23149"
+  },
+  "yara_title": "Stealer_Stealc.yar",
+  "file_path": "yara_rules/Stealer_Stealc.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2314a"
+  },
+  "yara_title": "StrelaStealer.yar",
+  "file_path": "yara_rules/StrelaStealer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2314b"
+  },
+  "yara_title": "STRRAT.yar",
+  "file_path": "yara_rules/STRRAT.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2314c"
+  },
+  "yara_title": "SUSP_Doc_WordXMLRels_May22.yar",
+  "file_path": "yara_rules/SUSP_Doc_WordXMLRels_May22.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2314d"
+  },
+  "yara_title": "SUSP_HxD_Icon_Anomaly_May23_1.yar",
+  "file_path": "yara_rules/SUSP_HxD_Icon_Anomaly_May23_1.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2314e"
+  },
+  "yara_title": "SUSP_ZIP_LNK_PhishAttachment.yar",
+  "file_path": "yara_rules/SUSP_ZIP_LNK_PhishAttachment.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2314f"
+  },
+  "yara_title": "Sus_AnyDesk_Attempts_Feb2024.yar",
+  "file_path": "yara_rules/Sus_AnyDesk_Attempts_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23150"
+  },
+  "yara_title": "Sus_Obf_Enc_Spoof_Hide_PE.yar",
+  "file_path": "yara_rules/Sus_Obf_Enc_Spoof_Hide_PE.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23151"
+  },
+  "yara_title": "SUS_UNC_InEmail.yar",
+  "file_path": "yara_rules/SUS_UNC_InEmail.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23152"
+  },
+  "yara_title": "SUS_Unsigned_APPX_MSIX_Installer_Feb23.yar",
+  "file_path": "yara_rules/SUS_Unsigned_APPX_MSIX_Installer_Feb23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23153"
+  },
+  "yara_title": "SUS_Unsigned_APPX_MSIX_Manifest_Feb23.yar",
+  "file_path": "yara_rules/SUS_Unsigned_APPX_MSIX_Manifest_Feb23.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23154"
+  },
+  "yara_title": "SVCReady_Packed.yar",
+  "file_path": "yara_rules/SVCReady_Packed.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23155"
+  },
+  "yara_title": "Targeted_SideWinder_Files_July2024.yar",
+  "file_path": "yara_rules/Targeted_SideWinder_Files_July2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23156"
+  },
+  "yara_title": "TAR_Utility_XZ_Utils_March2024.yar",
+  "file_path": "yara_rules/TAR_Utility_XZ_Utils_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23157"
+  },
+  "yara_title": "telegram_bot_api.yar",
+  "file_path": "yara_rules/telegram_bot_api.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23158"
+  },
+  "yara_title": "testlumma.yar",
+  "file_path": "yara_rules/testlumma.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23159"
+  },
+  "yara_title": "test_Malaysia.yar",
+  "file_path": "yara_rules/test_Malaysia.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2315a"
+  },
+  "yara_title": "tofsee_yhub.yar",
+  "file_path": "yara_rules/tofsee_yhub.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2315b"
+  },
+  "yara_title": "TTP_Chinese_Dropper_March2024.yar",
+  "file_path": "yara_rules/TTP_Chinese_Dropper_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2315c"
+  },
+  "yara_title": "TTP_Impersonating_Google_Updates_March2024.yar",
+  "file_path": "yara_rules/TTP_Impersonating_Google_Updates_March2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2315d"
+  },
+  "yara_title": "turkish_comments.yar",
+  "file_path": "yara_rules/turkish_comments.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2315e"
+  },
+  "yara_title": "u42_crime_win_heartcrypt.yar",
+  "file_path": "yara_rules/u42_crime_win_heartcrypt.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2315f"
+  },
+  "yara_title": "UmbrealStealerEXIFData.yar",
+  "file_path": "yara_rules/UmbrealStealerEXIFData.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23160"
+  },
+  "yara_title": "UNKNOWN_News_Penguin_Feb2024.yar",
+  "file_path": "yara_rules/UNKNOWN_News_Penguin_Feb2024.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23161"
+  },
+  "yara_title": "unk_phishkit.yar",
+  "file_path": "yara_rules/unk_phishkit.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23162"
+  },
+  "yara_title": "unpacked_qbot.yar",
+  "file_path": "yara_rules/unpacked_qbot.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23163"
+  },
+  "yara_title": "vidar_stealer_unpacked.yar",
+  "file_path": "yara_rules/vidar_stealer_unpacked.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23164"
+  },
+  "yara_title": "vulnerablity_driver2_PhysicalMemory.yar",
+  "file_path": "yara_rules/vulnerablity_driver2_PhysicalMemory.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23165"
+  },
+  "yara_title": "VxLang_Packer.yar",
+  "file_path": "yara_rules/VxLang_Packer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23166"
+  },
+  "yara_title": "WIN32_MALWR_POSSIBLE_EMOTET_07_20.yar",
+  "file_path": "yara_rules/WIN32_MALWR_POSSIBLE_EMOTET_07_20.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23167"
+  },
+  "yara_title": "WIN32_MAL_TROJ_DARKME.yar",
+  "file_path": "yara_rules/WIN32_MAL_TROJ_DARKME.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23168"
+  },
+  "yara_title": "WIN32_MAL_TROJ_UPATRE_SMBG.yar",
+  "file_path": "yara_rules/WIN32_MAL_TROJ_UPATRE_SMBG.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23169"
+  },
+  "yara_title": "win32_mystic_stealer.yar",
+  "file_path": "yara_rules/win32_mystic_stealer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2316a"
+  },
+  "yara_title": "win32_younglotus.yar",
+  "file_path": "yara_rules/win32_younglotus.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2316b"
+  },
+  "yara_title": "win_agent_tesla_ab4444e9.yar",
+  "file_path": "yara_rules/win_agent_tesla_ab4444e9.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2316c"
+  },
+  "yara_title": "win_amadey_a9f4.yar",
+  "file_path": "yara_rules/win_amadey_a9f4.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2316d"
+  },
+  "yara_title": "win_amadey_bytecodes_oct_2023.yar",
+  "file_path": "yara_rules/win_amadey_bytecodes_oct_2023.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2316e"
+  },
+  "yara_title": "win_aurora_stealer_a_706a.yar",
+  "file_path": "yara_rules/win_aurora_stealer_a_706a.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2316f"
+  },
+  "yara_title": "win_bitcoin_genesis_b9_ce9f.yar",
+  "file_path": "yara_rules/win_bitcoin_genesis_b9_ce9f.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23170"
+  },
+  "yara_title": "win_colibriloader_unpacked.yar",
+  "file_path": "yara_rules/win_colibriloader_unpacked.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23171"
+  },
+  "yara_title": "win_danabot_cdf38827.yar",
+  "file_path": "yara_rules/win_danabot_cdf38827.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23172"
+  },
+  "yara_title": "Win_DarkGate.yar",
+  "file_path": "yara_rules/Win_DarkGate.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23173"
+  },
+  "yara_title": "win_dexter_generic.yar",
+  "file_path": "yara_rules/win_dexter_generic.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23174"
+  },
+  "yara_title": "win_erbium_stealer_a1_2622.yar",
+  "file_path": "yara_rules/win_erbium_stealer_a1_2622.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23175"
+  },
+  "yara_title": "win_Eternity.yar",
+  "file_path": "yara_rules/win_Eternity.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23176"
+  },
+  "yara_title": "win_gcleaner_de41.yar",
+  "file_path": "yara_rules/win_gcleaner_de41.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23177"
+  },
+  "yara_title": "win_imminentrat_j1_7e208e97.yar",
+  "file_path": "yara_rules/win_imminentrat_j1_7e208e97.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23178"
+  },
+  "yara_title": "win_laplas_clipper_9c96.yar",
+  "file_path": "yara_rules/win_laplas_clipper_9c96.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23179"
+  },
+  "yara_title": "win_limerat_j1_00cfd931.yar",
+  "file_path": "yara_rules/win_limerat_j1_00cfd931.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2317a"
+  },
+  "yara_title": "win_lu0bot_loader_1d53.yar",
+  "file_path": "yara_rules/win_lu0bot_loader_1d53.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2317b"
+  },
+  "yara_title": "win_matanbuchus.yar",
+  "file_path": "yara_rules/win_matanbuchus.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2317c"
+  },
+  "yara_title": "win_modern_loader_v1_01_1edf.yar",
+  "file_path": "yara_rules/win_modern_loader_v1_01_1edf.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2317d"
+  },
+  "yara_title": "win_originbot.yar",
+  "file_path": "yara_rules/win_originbot.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2317e"
+  },
+  "yara_title": "win_origin_logger_b5c8.yar",
+  "file_path": "yara_rules/win_origin_logger_b5c8.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2317f"
+  },
+  "yara_title": "win_phorpiex_a_84fc.yar",
+  "file_path": "yara_rules/win_phorpiex_a_84fc.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23180"
+  },
+  "yara_title": "win_qakbot_malped.yar",
+  "file_path": "yara_rules/win_qakbot_malped.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23181"
+  },
+  "yara_title": "win_redline_stealer_f34d5f2d4577ed6d9ceec516c1f5a744.yar",
+  "file_path": "yara_rules/win_redline_stealer_f34d5f2d4577ed6d9ceec516c1f5a744.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23182"
+  },
+  "yara_title": "win_strelastealer.yar",
+  "file_path": "yara_rules/win_strelastealer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23183"
+  },
+  "yara_title": "win_tofsee_bot.yar",
+  "file_path": "yara_rules/win_tofsee_bot.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23184"
+  },
+  "yara_title": "win_vidar_a_a901.yar",
+  "file_path": "yara_rules/win_vidar_a_a901.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23185"
+  },
+  "yara_title": "win_x86_x64_Mirai.yar",
+  "file_path": "yara_rules/win_x86_x64_Mirai.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23186"
+  },
+  "yara_title": "win_xfiles_stealer_a8b373fb.yar",
+  "file_path": "yara_rules/win_xfiles_stealer_a8b373fb.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23187"
+  },
+  "yara_title": "win_xwormmm_s1_6f74.yar",
+  "file_path": "yara_rules/win_xwormmm_s1_6f74.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23188"
+  },
+  "yara_title": "xlsb_adj.yar",
+  "file_path": "yara_rules/xlsb_adj.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23189"
+  },
+  "yara_title": "xlsb_rule.yar",
+  "file_path": "yara_rules/xlsb_rule.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2318a"
+  },
+  "yara_title": "XLS_STRINGS.yar",
+  "file_path": "yara_rules/XLS_STRINGS.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2318b"
+  },
+  "yara_title": "xwormStealer.yar",
+  "file_path": "yara_rules/xwormStealer.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2318c"
+  },
+  "yara_title": "XWorm_3_0_3_1_Detection2.yar",
+  "file_path": "yara_rules/XWorm_3_0_3_1_Detection2.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2318d"
+  },
+  "yara_title": "yarahub_win_mystic_stealer_bytecodes_sep_2023.yar",
+  "file_path": "yara_rules/yarahub_win_mystic_stealer_bytecodes_sep_2023.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2318e"
+  },
+  "yara_title": "yarahub_win_njrat_bytecodes_V2_oct_2023.yar",
+  "file_path": "yara_rules/yarahub_win_njrat_bytecodes_V2_oct_2023.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee2318f"
+  },
+  "yara_title": "yarahub_win_remcos_rat_unpacked_aug_2023.yar",
+  "file_path": "yara_rules/yarahub_win_remcos_rat_unpacked_aug_2023.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23190"
+  },
+  "yara_title": "yarahub_win_stealc_bytecodes_oct_2023.yar",
+  "file_path": "yara_rules/yarahub_win_stealc_bytecodes_oct_2023.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23191"
+  },
+  "yara_title": "yes.yar",
+  "file_path": "yara_rules/yes.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23192"
+  },
+  "yara_title": "ZeuS.yar",
+  "file_path": "yara_rules/ZeuS.yar.yara"
+},
+{
+  "_id": {
+    "$oid": "67aa000af251d0875ee23193"
+  },
+  "yara_title": "ZPAQ.yar",
+  "file_path": "yara_rules/ZPAQ.yar.yara"
+}]
